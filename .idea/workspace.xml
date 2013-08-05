@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="441b78dd-c86b-4e19-8379-668449b9a153" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/page.rb" afterPath="$PROJECT_DIR$/app/models/page.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/section.rb" afterPath="$PROJECT_DIR$/app/models/section.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/section_edit.rb" afterPath="$PROJECT_DIR$/app/models/section_edit.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/simple_cms.iml" afterPath="$PROJECT_DIR$/.idea/simple_cms.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/subject.rb" afterPath="$PROJECT_DIR$/app/models/subject.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="simple_cms.iws" />
@@ -31,7 +27,7 @@
     <file path="/20130803190211_create_admin_users_pages_join.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375556724782" ignored="false" />
     <file path="/admin_user.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375678169502" ignored="false" />
     <file path="/20130803192157_create_section_edits.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375557850938" ignored="false" />
-    <file path="/section_edit.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375672232965" ignored="false" />
+    <file path="/section_edit.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375744274235" ignored="false" />
     <file path="/subjects_controller.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375672763986" ignored="false" />
     <file path="/list.html.erb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375677279796" ignored="false" />
     <file path="/show.html.erb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375675605298" ignored="false" />
@@ -85,10 +81,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="17" selection-start="241" selection-end="241" vertical-scroll-proportion="0.43272728">
+            <state line="16" column="17" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="section_edit.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/section_edit.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="3" selection-start="119" selection-end="119" vertical-scroll-proportion="0.123636365">
               <folding />
             </state>
           </provider>
@@ -130,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/sections/list.html.erb" />
         <option value="$PROJECT_DIR$/app/views/sections/new.html.erb" />
         <option value="$PROJECT_DIR$/app/views/sections/show.html.erb" />
         <option value="$PROJECT_DIR$/app/views/subjects/delete.html.erb" />
@@ -146,6 +150,7 @@
         <option value="$PROJECT_DIR$/app/models/section.rb" />
         <option value="$PROJECT_DIR$/app/models/page.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/models/section_edit.rb" />
       </list>
     </option>
   </component>
@@ -1088,13 +1093,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/section_edit.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
@@ -1132,7 +1130,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="17" selection-start="241" selection-end="241" vertical-scroll-proportion="0.43272728">
+        <state line="16" column="17" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/section_edit.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="3" selection-start="119" selection-end="119" vertical-scroll-proportion="0.123636365">
           <folding />
         </state>
       </provider>
