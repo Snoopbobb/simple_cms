@@ -2,7 +2,7 @@
 class Page < ActiveRecord::Base
   attr_accessible :name, :permalink, :position, :visible, :subject_id
 
-  include PositionMover
+  #include PositionMover
 
   belongs_to :subject
   has_many :sections

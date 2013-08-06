@@ -2,7 +2,7 @@
 class Section < ActiveRecord::Base
   attr_accessible :name, :position, :visible, :content, :content_type, :page_id
 
-  include PositionMover
+  #include PositionMover
 
   belongs_to :page
   has_many :section_edits
