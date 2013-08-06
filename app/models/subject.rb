@@ -1,4 +1,4 @@
-require 'position_mover'
+#require 'position_mover'
 class Subject < ActiveRecord::Base
   attr_accessible :name, :position, :visible, :created_at
 

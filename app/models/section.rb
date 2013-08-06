@@ -1,4 +1,4 @@
-require 'position_mover'
+#require 'position_mover'
 class Section < ActiveRecord::Base
   attr_accessible :name, :position, :visible, :content, :content_type, :page_id
 
