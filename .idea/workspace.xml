@@ -3,15 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="441b78dd-c86b-4e19-8379-668449b9a153" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/public/index.html.erb" afterPath="$PROJECT_DIR$/app/views/public/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/public.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/public.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="simple_cms.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/routes.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375675743992" ignored="false" />
     <file path="/hello.html.erb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375067981922" ignored="false" />
     <file path="/demo_controller.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375067914261" ignored="false" />
-    <file path="/index.html.erb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375759867184" ignored="false" />
+    <file path="/index.html.erb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375760063678" ignored="false" />
     <file path="/database.yml" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375747219564" ignored="false" />
     <file path="/20130729043004_create_users.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375072607591" ignored="false" />
     <file path="/20130729045526_alter_users.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375074264751" ignored="false" />
@@ -71,19 +69,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/public/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="1123" selection-end="1123" vertical-scroll-proportion="-12.423077">
+            <state line="19" column="36" selection-start="1124" selection-end="1124" vertical-scroll-proportion="0.6164122">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="public.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="public.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/public.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="40" selection-start="933" selection-end="933" vertical-scroll-proportion="0.77272725">
+            <state line="28" column="40" selection-start="933" selection-end="933" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -121,8 +119,8 @@
         <option value="$PROJECT_DIR$/app/models/section.rb" />
         <option value="$PROJECT_DIR$/app/models/subject.rb" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
-        <option value="$PROJECT_DIR$/app/views/public/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/public.css" />
+        <option value="$PROJECT_DIR$/app/views/public/index.html.erb" />
       </list>
     </option>
   </component>
@@ -928,7 +926,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1292" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1292" height="1000" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1110,16 +1108,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/public/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/public.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="1123" selection-end="1123" vertical-scroll-proportion="-12.423077">
+        <state line="28" column="40" selection-start="933" selection-end="933" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/public.css">
+    <entry file="file://$PROJECT_DIR$/app/views/public/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="40" selection-start="933" selection-end="933" vertical-scroll-proportion="0.77272725">
+        <state line="19" column="36" selection-start="1124" selection-end="1124" vertical-scroll-proportion="0.6164122">
           <folding />
         </state>
       </provider>
