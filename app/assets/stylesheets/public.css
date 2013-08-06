@@ -26,7 +26,7 @@ a:hover {}
 #main { min-height: 500px; background: #ffffff; }
 #navigation { float: left; width: 180px; min-height: 480px; padding: 10px;
     background: #d7dadb; color: #2c3e50; }
-#content { padding: 10px; margin-left: 425px;}
+#content { padding: 10px; margin-left: 325px;}
 #footer { clear: both; height: 2.5em; text-align: right;
     background: #fa4248; color: #ffffff; }
 #footer p { margin: 0; padding: 0.5em 1em; }
