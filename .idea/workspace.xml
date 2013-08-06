@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="441b78dd-c86b-4e19-8379-668449b9a153" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/page.rb" afterPath="$PROJECT_DIR$/app/models/page.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/section.rb" afterPath="$PROJECT_DIR$/app/models/section.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/section_edit.rb" afterPath="$PROJECT_DIR$/app/models/section_edit.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/subject.rb" afterPath="$PROJECT_DIR$/app/models/subject.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="simple_cms.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,7 +17,7 @@
     <file path="/20130729051659_create_pages.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375075314926" ignored="false" />
     <file path="/20130729051728_create_sections.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375577763290" ignored="false" />
     <file path="/user.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375460014011" ignored="false" />
-    <file path="/subject.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375756001351" ignored="false" />
+    <file path="/subject.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375756051386" ignored="false" />
     <file path="/page.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375755991381" ignored="false" />
     <file path="/section.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375755998208" ignored="false" />
     <file path="/20130803190211_create_admin_users_pages_join.rb" changelist="441b78dd-c86b-4e19-8379-668449b9a153" time="1375556724782" ignored="false" />
@@ -123,7 +119,7 @@
       <file leaf-file-name="subject.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/subject.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="22" selection-start="450" selection-end="450" vertical-scroll-proportion="0.49454546">
+            <state line="4" column="3" selection-start="123" selection-end="123" vertical-scroll-proportion="0.123636365">
               <folding />
             </state>
           </provider>
@@ -1152,7 +1148,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/subject.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="450" selection-end="450" vertical-scroll-proportion="0.49454546">
+        <state line="4" column="3" selection-start="123" selection-end="123" vertical-scroll-proportion="0.123636365">
           <folding />
         </state>
       </provider>

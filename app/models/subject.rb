@@ -2,7 +2,7 @@
 class Subject < ActiveRecord::Base
   attr_accessible :name, :position, :visible, :created_at
 
-  include PositionMover
+  #include PositionMover
 
   has_many :pages
 
